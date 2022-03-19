@@ -5,3 +5,4 @@
 3. <a href =https://github.com/karlmaji/pytorch_learning/blob/master/ShuffleNetV2.ipynb>ShuffleNetV2 </a>
 4. <a href =https://github.com/karlmaji/pytorch_learning/blob/master/Resnet50.ipynb>Resnet50 </a>
 5. <a href =https://github.com/karlmaji/pytorch_learning/blob/master/ResNeXt50.ipynb>ResNeXt50 </a>
+6. <a href =https://github.com/karlmaji/pytorch_learning/blob/master/Xception.ipynb>Xception </a>
