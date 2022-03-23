@@ -7,3 +7,4 @@
 5. <a href =https://github.com/karlmaji/pytorch_learning/blob/master/ResNeXt50.ipynb>ResNeXt50 </a>
 6. <a href =https://github.com/karlmaji/pytorch_learning/blob/master/Xception.ipynb>Xception </a>
 7. <a href =https://github.com/karlmaji/pytorch_learning/blob/master/Vision_Transformer.ipynb>Vision_Transformer </a>
+8. <a href =https://github.com/karlmaji/pytorch_learning/blob/master/MobileNetV1.ipynb>MobileNetV1 </a>
